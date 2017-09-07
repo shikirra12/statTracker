@@ -1,0 +1,22 @@
+{
+  "name": "statTracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "morgan": "^1.8.2",
+    "mustache-express": "^1.2.5",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0",
+    "path": "^0.12.7"
+  }
+}
